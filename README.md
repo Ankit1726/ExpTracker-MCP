@@ -2,7 +2,7 @@
 
 > **Project:** Expense Tracker MCP Server
 
-> **Remote Tracker MCP:** https://xptracker-server.fastmcp.app/mcp
+> **Remote Expense Tracker MCP:** https://xptracker-server.fastmcp.app/mcp
 
 > **Remote Weather MCP:** https://calculator-serverr.fastmcp.app/mcp
 
