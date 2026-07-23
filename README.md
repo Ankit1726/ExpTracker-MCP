@@ -2,8 +2,9 @@
 
 > **Project:** Expense Tracker MCP Server
 
-> **Remote MCP Endpoint:** https://xptracker-server.fastmcp.app/mcp
-
+> **Remote Tracker MCP:** https://xptracker-server.fastmcp.app/mcp
+> **Remote Weather MCP:** https://calculator-serverr.fastmcp.app/mcp
+> **Remote Calci MCP:** https://weather-1803e700fd4e.fastmcp.app/mcp
 ---
 
 ####  What is MCP?
