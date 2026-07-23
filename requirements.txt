@@ -1,0 +1,4 @@
+fastmcp 
+langchain-mcp-adapters
+streamlit 
+aiosqlite
