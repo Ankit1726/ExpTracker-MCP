@@ -473,8 +473,8 @@ To make your tools available:
 
 ---
 
-### 30-Second Interview Answer
+### Interview Answer
 
-> "Model Context Protocol (MCP) is an open protocol that standardizes how AI models interact with external tools, resources, and services. An MCP Client discovers available tools from an MCP Server and invokes them when needed. The server contains business logic written in languages like Python and can access databases, APIs, or files. MCP supports local communication through `stdio` and remote communication over HTTP, making it easy to integrate AI assistants with real-world applications."
+> Model Context Protocol (MCP) is an open protocol that standardizes how AI models interact with external tools, resources, and services. An MCP Client discovers available tools from an MCP Server and invokes them when needed. The server contains business logic written in languages like Python and can access databases, APIs, or files. MCP supports local communication through `stdio` and remote communication over HTTP, making it easy to integrate AI assistants with real-world applications.
 
 ---
