@@ -1,8 +1,8 @@
 ## MCP (Model Context Protocol) Cheat Sheet 
 
 > **Project:** Expense Tracker MCP Server
-> 
-> **Remote MCP Endpoint:** `https://xptracker-server.fastmcp.app/mcp`
+
+> **Remote MCP Endpoint:** https://xptracker-server.fastmcp.app/mcp
 
 ---
 
