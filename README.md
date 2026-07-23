@@ -6,7 +6,7 @@
 
 ---
 
-###  What is MCP?
+####  What is MCP?
 **MCP (Model Context Protocol)** is an open protocol that allows AI models to securely communicate with external tools, APIs, databases, files, and services.
 
 Think of MCP as a **bridge between an AI model and your Python code**.
@@ -28,7 +28,7 @@ Python Function / Database / API
 
 ---
 
-### Why was MCP created?
+#### Why was MCP created?
 
 Without MCP:
 * AI cannot access databases.
@@ -109,7 +109,7 @@ Resources are commonly used for:
 
 ---
 
-# MCP Architecture
+### MCP Architecture
 
 ```
             User
@@ -233,7 +233,7 @@ SQLite
 
 ---
 
-# Deployment Flow
+### Deployment Flow
 
 ```
 Laptop
@@ -473,7 +473,7 @@ To make your tools available:
 
 ---
 
-# 30-Second Interview Answer
+### 30-Second Interview Answer
 
 > "Model Context Protocol (MCP) is an open protocol that standardizes how AI models interact with external tools, resources, and services. An MCP Client discovers available tools from an MCP Server and invokes them when needed. The server contains business logic written in languages like Python and can access databases, APIs, or files. MCP supports local communication through `stdio` and remote communication over HTTP, making it easy to integrate AI assistants with real-world applications."
 
