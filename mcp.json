@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "expense": {
+      "transport": "streamable_http",
+      "url": "https://xptracker-server.fastmcp.app/mcp"
+    },
+    "calculator": {
+      "transport": "streamable_http",
+      "url": "https://calculator-serverr.fastmcp.app/mcp"
+    },
+    "weather": {
+      "transport": "streamable_http",
+      "url": "https://weather-1803e700fd4e.fastmcp.app/mcp"
+    }
+  }
+}
